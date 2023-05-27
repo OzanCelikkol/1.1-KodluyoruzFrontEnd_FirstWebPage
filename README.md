@@ -1,6 +1,6 @@
 # Assignment 2
 
-## Improvıng Our First Web Page
+## Improving Our First Web Page
 
 In this assignment we improve our first web page by using new elements we have learnt.
 
